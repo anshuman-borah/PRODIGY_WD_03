@@ -13,17 +13,6 @@ You can play either **Player vs Player** or **Player vs AI (Minimax Algorithm)**
 - 🏆 Scoreboard tracking wins, losses & ties  
 - 🔄 New round & Reset options  
 - 📱 Works on desktop & mobile  
-
----
-
-## 📷 Screenshots  
-
-### Game Board  
-![Screenshot 1](images/screenshot1.png)  
-
-### AI Mode  
-![Screenshot 2](images/screenshot2.png)  
-
 ---
 
 ## 🛠️ Installation  
