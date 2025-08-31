@@ -16,12 +16,6 @@ You can play either **Player vs Player** or **Player vs AI (Minimax Algorithm)**
 
 ---
 
-## 🚀 Live Demo  
-
-👉 [Play Tic-Tac-Toe Online](#) *(add GitHub Pages link after deployment)*  
-
----
-
 ## 📷 Screenshots  
 
 ### Game Board  
